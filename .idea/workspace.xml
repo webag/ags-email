@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="003ad379-5270-4a98-a436-deef48fc3680" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/email-template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/email-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/email-2.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,20 +24,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/email-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+            <state relative-caret-position="250">
+              <caret line="59" column="11" lean-forward="true" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
+              <folding>
+                <element signature="n#table#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#table#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#table#2;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/email-2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="65" column="8" lean-forward="true" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
+            <state relative-caret-position="226">
+              <caret line="58" column="55" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
               <folding>
                 <element signature="n#table#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#table#2;n#body#0;n#html#0;n#!!top" />
@@ -54,8 +60,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/email-template.html" />
-        <option value="$PROJECT_DIR$/email-1.html" />
         <option value="$PROJECT_DIR$/email-2.html" />
+        <option value="$PROJECT_DIR$/email-1.html" />
       </list>
     </option>
   </component>
@@ -142,6 +148,12 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.1" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/email-template.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -150,18 +162,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/email-1.html">
+    <entry file="file://$PROJECT_DIR$/email-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+        <state relative-caret-position="226">
+          <caret line="58" column="55" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
+          <folding>
+            <element signature="n#table#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#table#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/email-2.html">
+    <entry file="file://$PROJECT_DIR$/email-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="65" column="8" lean-forward="true" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
+        <state relative-caret-position="250">
+          <caret line="59" column="11" lean-forward="true" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
           <folding>
+            <element signature="n#table#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#table#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#table#2;n#body#0;n#html#0;n#!!top" />
           </folding>
